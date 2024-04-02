@@ -1,0 +1,5 @@
+Insert a column next to the column of the date that needs to be reformated
+Sort column by the dates that need to be moved to the correct format
+Paste formula into the columns to get the correct date format
+Cut an paste the new dates into the un-formated columns - Paste Special - Paste "Values" - Operation "None"
+Highlight and delete the previously inserted column
